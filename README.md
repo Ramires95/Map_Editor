@@ -27,8 +27,8 @@ Welcome to MapEditor, a simple application that allows you to unleash your creat
    - Press "s" button to save your current grid.
    - Press "l" button to load a previously saved grid.
 
-## Acknowledgments
+## More Info
 - Built in Java during the fourth week of a 14 week fullstack bootcamp.
-- Future features like being able to choose colors will be added in the future
+- Features like being able to choose colors will be added in the future.
 
 Happy painting! 🎨
