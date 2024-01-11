@@ -1,6 +1,6 @@
 # MapEditor App
 
-Welcome to MapEditor, this app was developed during the 5h week of a 14 week full stack bootcamp using SimpleGFX library. (10/2022)
+Welcome to MapEditor, this app was developed during the 5th week of a 14 week full stack bootcamp using SimpleGFX library. (10/2022)
 
 ## Features
 
