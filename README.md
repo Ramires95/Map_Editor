@@ -1,6 +1,6 @@
 # MapEditor App
 
-Welcome to MapEditor, a simple application that allows you to unleash your creativity by painting cells on a grid. MapEditor offers basic features such as painting, deleting, saving, and loading cells on a grid.
+Welcome to MapEditor, this app was developed during the 5h week of a 14 week full stack bootcamp using SimpleGFX library. (10/2022)
 
 ## Features
 
@@ -26,9 +26,5 @@ Welcome to MapEditor, a simple application that allows you to unleash your creat
 3. **Save and Load**
    - Press "s" button to save your current grid.
    - Press "l" button to load a previously saved grid.
-
-## More Info
-- Built in Java during the fourth week of a 14 week fullstack bootcamp.
-- Features like being able to choose colors will be added in the future.
 
 Happy painting! 🎨
